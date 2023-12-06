@@ -6,7 +6,6 @@
         "Tim McGraw",
         "Picture to Burn",
         "Teardrops on My Guitar",
-        // ... other songs from Debut
         "A Perfectly Good Heart"
       ]
     },
@@ -16,20 +15,16 @@
         "Fearless",
         "Fifteen",
         "Love Story",
-        // ... other songs from Fearless
         "Change",
-        // ... more songs from Fearless (Platinum Edition)
         "The Very First Night"
       ]
     },
-    // ... other albums like Speak Now, Red, etc.
     {
       "name": "Midnights",
       "songs": [
         "Lavender Haze",
         "Maroon",
         "Anti-Hero",
-        // ... other songs from Midnights
         "Dear Reader",
         "Hits Different"
       ]
